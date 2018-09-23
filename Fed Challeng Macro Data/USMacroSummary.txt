@@ -1,0 +1,92 @@
+
+Output:
+
+    RGDPg = 4.2 (Q , Percent Change)
+
+    Potential GDP:
+
+        SEP2018 = 2.8 (A , Percent Change)
+        SEP2019 = 2.4 (A , Percent Change)
+        SEP2020 = 2.0 (A , Percent Change)
+
+    Component specific trends:
+
+        Consumption:
+
+            Retail Sales (No Food) = 6.17 (M , Percent Change)
+            Retail Sales (With Food) = 3.85 (M , Percent Change)
+            Michigan Survey = 2.9 (M , Percent)
+            OECD = -0.00 (M , Percent Change)
+            Consumer Credit = 4.59 (M , Percent Change)
+            Headline CPI(C) = 2.68 (M , Percent Change)
+            Savings Rate = 6.7 (M , Percent)
+            Personal Outlays = 5.31 (M , Percent Change)
+
+        Investment:
+
+            New Orders of Durable Goods = 9.38 (M , Percent Change)
+            ECI(I) = 2.95 (Q , Percent Change)
+            Existing Home Sales = -1.48 (M , Percent Change)
+            Housing Starts = 9.39 (M , Percent Change)
+            Industrial Production Index = 4.88 (M , Percent Change)
+            Purchasing Managers Index = var
+            PPI(I) = 4.75 (M , Percent Change)
+            Wholesale Sales = 9.79 (M , Percent Change)
+            Wholesale Inventories = 5.03 (M , Percent Change)
+            Inventory to Sales Ratio = 1.26 (M , Ratio)
+            Change in I:S = -0.06 (M , Change)
+
+        Government Spending:
+
+            Total Expenditures = 5.16 (Q , Percent Change)
+
+        Net Exports:
+
+            Trade Balance G&S = 11.78 (M , Percent Change)
+            Trade Balance G = 11.78 (M , Percent Change)
+            U.S. Trade Deficit = 189779.0 (A , Level)
+
+
+Labor Market:
+
+    U-3 UR = 3.9 (M , Percent)
+    U-6 UR = 7.4 (M , Percent)
+    LFPR = 62.7 (M , Percent)
+    LFPRg = -0.20 (M , Change)
+    NAIRU = 4.55 (Q , Percent)
+    Jobless Claims = 205750.0 (W , Level)
+
+    JOLTS nonfarm
+
+        Job Openings = 6939.0 (M , Level)
+        Hires = 5679.0 (M , Level)
+        Layoffs and Discharges = 1602.0 (M , Level)
+        Seperations = 3.7 (M , Level)
+        Quits = 2.4 (M , Percent)
+
+
+Prices:
+
+    Inflation:
+
+        Core CPI = 2.19 (M , Percent Change)
+        Headline CPI = 2.68 (M , Percent Change)
+        Core PCE = 1.98 (M , Percent Change)
+        PPI = 4.75 (M , Percent Change)
+        ECI = 2.95 (Q , Percent Change)
+        GDP Deflator = 2.48 (Q , Percent Change)
+
+    Inflation Expectations:
+
+        5 year, 5 year forward = 2.28 (D , Percent)
+        Michigan = 2.9 (M , Percent)
+        TIPS = 0.93 (D , Percent)
+
+Monetary Policy:
+
+    Effective ffr = 1.91 (M , Percent)
+    Fed Balance Sheets = 4208059.0 (W , Level)
+    Change in Fed Balance Sheet = 4208059.0 (W , Level)
+    Short-Term Treasury Yield(3-month) = 2.16 (D , Percent)
+    Long-Term Treasury Yield(10 year) = 3.08 (D , Percent)
+    S&P 500 Index = 22.69 (D , Percent Change)
